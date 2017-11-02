@@ -1,0 +1,7 @@
+C:\Users\Παναγιώτης\Desktop\C#\Ergasia1\Ergasia1\obj\Debug\Ergasia1.csprojResolveAssemblyReference.cache
+C:\Users\Παναγιώτης\Desktop\C#\Ergasia1\Ergasia1\obj\Debug\Ergasia1.csproj.CoreCompileInputs.cache
+C:\Users\Παναγιώτης\Desktop\C#\Ergasia1\Ergasia1\bin\Debug\Ergasia1.exe.config
+C:\Users\Παναγιώτης\Desktop\C#\Ergasia1\Ergasia1\bin\Debug\Ergasia1.exe
+C:\Users\Παναγιώτης\Desktop\C#\Ergasia1\Ergasia1\bin\Debug\Ergasia1.pdb
+C:\Users\Παναγιώτης\Desktop\C#\Ergasia1\Ergasia1\obj\Debug\Ergasia1.exe
+C:\Users\Παναγιώτης\Desktop\C#\Ergasia1\Ergasia1\obj\Debug\Ergasia1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Παναγιώτης\Desktop\C#\erg2\erg2\bin\Debug\erg2.exe.config
+C:\Users\Παναγιώτης\Desktop\C#\erg2\erg2\bin\Debug\erg2.exe
+C:\Users\Παναγιώτης\Desktop\C#\erg2\erg2\bin\Debug\erg2.pdb
+C:\Users\Παναγιώτης\Desktop\C#\erg2\erg2\obj\Debug\erg2.csprojResolveAssemblyReference.cache
+C:\Users\Παναγιώτης\Desktop\C#\erg2\erg2\obj\Debug\erg2.Form1.resources
+C:\Users\Παναγιώτης\Desktop\C#\erg2\erg2\obj\Debug\erg2.Properties.Resources.resources
+C:\Users\Παναγιώτης\Desktop\C#\erg2\erg2\obj\Debug\erg2.csproj.GenerateResource.Cache
+C:\Users\Παναγιώτης\Desktop\C#\erg2\erg2\obj\Debug\erg2.csproj.CoreCompileInputs.cache
+C:\Users\Παναγιώτης\Desktop\C#\erg2\erg2\obj\Debug\erg2.exe
+C:\Users\Παναγιώτης\Desktop\C#\erg2\erg2\obj\Debug\erg2.pdb
